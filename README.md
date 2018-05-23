@@ -1,4 +1,4 @@
-# never-ending
+# never-ending-sushi-game
 A sushi conveyor belt game created for COMP401.
 
 This game is a semester-long Java project for UNC's COMP401 class. The game consists of a conveyor belt of sushi that you and four other chefs create and place for sale. The goal of the game is to be the most profitable and most popular chef. You may filter the scoreboard based on most amount of profit, least spoiled food, or highest amount of sushi consumed. The game utilizes the MVC architectural pattern along with the use of interfaces, polymorphism, encapsulation, abstraction, inheritance, delegation, design patterns, and exceptions.
